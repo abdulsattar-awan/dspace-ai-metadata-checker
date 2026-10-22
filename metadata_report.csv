@@ -1,0 +1,11 @@
+﻿Handle,Title,Author,Date issued,AI findings
+10673/2614,Library Automation,Dania Bilal,2014-03-26,"- Author format incorrect: Change ""Dania Bilal"" to ""Bilal, Dania"".
+- Abstract is missing: Provide the abstract.
+- Subject is missing: Provide subject keywords."
+10673/1805,Library Automation,Eric Blake Johanson,2026-10-18,"- Author format incorrect: change to ""Johanson, Eric Blake"".
+- Abstract is missing: add an abstract.
+- Subject is missing: add relevant subject keywords."
+10673/2635,Research data management in academic libraries: institutional repositories as a reservoir for research data,"DUBE, Tinyiko Vivian",2025,"- Author: Change ""DUBE, Tinyiko Vivian"" to ""Dube, Tinyiko Vivian"".
+- Abstract: Missing; provide the record's abstract."
+10673/2774,Library Anxiety among First-Year Students: A Practice Record,"Malik, Usman",2023,AI check failed after 3 tries.
+10673/2045,Library management system,"Subhan, Md. Raihan",12/27/2021,AI check failed after 3 tries.
